@@ -1,0 +1,76 @@
+{
+  "general":
+    {
+      'container-fluid'                 => 'container mx-auto',
+      'container'                       => 'container mx-auto',
+      'close'                           => '',
+      'embed-responsive'                => '',
+      'embed-responsive-item'           => '',
+      'embed-responsive-21by9'          => '',
+      'embed-responsive-16by9'          => '',
+      'embed-responsive-4by3'           => '',
+      'embed-responsive-1by1'           => '',
+      'text-hide'                       => '',
+      'sr-only'                         => '',
+      'sr-only-focusable'               => '',
+      'img-fluid'                       => 'max-w-full h-auto',
+      'img-thumbnail'                   => 'max-w-full h-auto border-1 border-grey rounded p-1',
+      'table'                           => 'w-full max-w-full mb-4 bg-transparent',
+      'table-sm'                        => 'p-1',
+      'table-responsive'                => 'block w-full overflow-auto scrolling-touch',
+      'table-responsive-{regex_string}' => 'block w-full overflow-auto scrolling-touch',
+      'figure'                          => 'inline-block mb-4',
+      'figure-img'                      => 'mb-2 leading-none',
+      'figure-caption'                  => 'text-grey',
+      'fade'                            => 'opacity-0',
+      'show'                            => 'opacity-100 block', //need to be checked
+      'disabled'                        => 'opacity-75',
+      'collapsing'                      => 'relative h-0 overflow-hidden ', //there should be a h-0
+      'close'                           => 'absolute pin-t pin-b pin-r px-4 py-3',
+      'jumbotron'                       => 'py-8 px-4 mb-8 bg-grey-lighter rounded',
+      'jumbotron-fluid'                 => 'pr-0 pl-0 rounded-none'    
+    },
+    "convertGrid":
+    {},
+    "convertMediaObject":
+    {},
+    "convertBorders":
+    {},
+    "convertColors":
+    {},
+    "convertDisplay":
+    {},
+    "convertFlexElements":
+    {},
+    "convertSizing",
+    {},
+    "convertSpacing":
+    {},
+    "convertText":
+    {},
+    "convertCards",
+    {},
+    
+    "convertBadges",
+    {},
+    "convertBreadcrumb":
+    {},
+    "convertButtons",
+    {},
+    "convertDropdowns":
+    {},
+    "convertForms":
+    {},
+    "convertInputGroups":
+    {},
+    "convertListGroups":
+    {},
+    "convertModals":
+    {},
+    "convertNavs":
+    {},
+    "convertPagination":
+    {}
+    
+    
+}
